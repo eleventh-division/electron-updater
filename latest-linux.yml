@@ -1,0 +1,9 @@
+version: 0.0.3
+files:
+  - url: App-0.0.3.AppImage
+    sha512: CDzaDUvYLSjC+s0fQ9iC/vmTUfjexeYjlGVuAvecEGoVRoYenQe0Y2U7mzngiarc1viF/u65fmcijqWyMYHidQ==
+    size: 117969188
+    blockMapSize: 123192
+path: App-0.0.3.AppImage
+sha512: CDzaDUvYLSjC+s0fQ9iC/vmTUfjexeYjlGVuAvecEGoVRoYenQe0Y2U7mzngiarc1viF/u65fmcijqWyMYHidQ==
+releaseDate: '2022-06-27T09:47:25.415Z'
